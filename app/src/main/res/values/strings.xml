@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastDemo</string>
+    <string name="msg">This is a custom toast</string>
+</resources>
